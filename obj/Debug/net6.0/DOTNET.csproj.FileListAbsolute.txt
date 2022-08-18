@@ -1,0 +1,30 @@
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\bin\Debug\net6.0\DOTNET.exe
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\bin\Debug\net6.0\DOTNET.deps.json
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\bin\Debug\net6.0\DOTNET.runtimeconfig.json
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\bin\Debug\net6.0\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\bin\Debug\net6.0\DOTNET.pdb
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.csproj.AssemblyReference.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.AssemblyInfoInputs.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.AssemblyInfo.cs
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\refint\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.pdb
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\DOTNET.genruntimeconfig.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET\obj\Debug\net6.0\ref\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\bin\Debug\net6.0\DOTNET.exe
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\bin\Debug\net6.0\DOTNET.deps.json
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\bin\Debug\net6.0\DOTNET.runtimeconfig.json
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\bin\Debug\net6.0\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\bin\Debug\net6.0\DOTNET.pdb
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.csproj.AssemblyReference.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.AssemblyInfoInputs.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.AssemblyInfo.cs
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\refint\DOTNET.dll
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.pdb
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\DOTNET.genruntimeconfig.cache
+C:\Users\Md. Yeasin Arafath\Desktop\DOTNET C#\obj\Debug\net6.0\ref\DOTNET.dll
